@@ -5,8 +5,6 @@ token ptoken[100];
 
 token *lookahead = ptoken;
 
-bool lol = true;
-
 void showTokenStream()
 {
     struct token* ptr=ptoken;
@@ -40,7 +38,12 @@ void E();
 
 void num()
 {
-    cout<<"<"<<lookahead->name<<","<<lookahead->value<<">";
+    //cout<<"<"<<lookahead->name<<","<<lookahead->value<<">";  //to print token name and value
+
+
+    cout<<"<"<<lookahead->value<<">";  //to print value only
+
+
     lookahead++;
 }
 
@@ -121,5 +124,3 @@ void E()
     T();
     EPrime();
 }
-
-

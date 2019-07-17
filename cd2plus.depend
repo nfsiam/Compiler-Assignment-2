@@ -12,3 +12,16 @@
 1563332621 source:d:\edu\programs\compiler\cd2plus\lexer.cpp
 	"siam.h"
 
+1563333058 source:c:\users\siam\desktop\compiler-assignment-2-master\lexer.cpp
+	"siam.h"
+
+1563333058 c:\users\siam\desktop\compiler-assignment-2-master\siam.h
+	<iostream>
+	<string>
+
+1563333058 source:c:\users\siam\desktop\compiler-assignment-2-master\main.cpp
+	"siam.h"
+
+1563333058 source:c:\users\siam\desktop\compiler-assignment-2-master\parser.cpp
+	"siam.h"
+
