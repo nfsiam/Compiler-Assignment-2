@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1563332634 source:d:\edu\programs\compiler\cd2plus\parser.cpp
+	"siam.h"
+
+1563332621 d:\edu\programs\compiler\cd2plus\siam.h
+	<iostream>
+	<string>
+
+1563332621 source:d:\edu\programs\compiler\cd2plus\main.cpp
+	"siam.h"
+
+1563332621 source:d:\edu\programs\compiler\cd2plus\lexer.cpp
+	"siam.h"
+
